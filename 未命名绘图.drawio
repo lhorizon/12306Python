@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-0" value="刻字机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="150" width="60" height="40" as="geometry" />
+          <mxGeometry x="500" y="230" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sa9fdk2BlfCGro_Fxv4i-11">
           <mxGeometry relative="1" as="geometry">
@@ -66,6 +66,15 @@
         </mxCell>
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-31" value="执行报工或异常流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-32" value="OT" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="640" width="200" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-33" value="数采" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="640" width="200" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-34" value="MES" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="640" width="200" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
