@@ -70,7 +70,7 @@
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-32" value="OT" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="650" width="200" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sa9fdk2BlfCGro_Fxv4i-32">
+        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-37" value="设备状态变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sa9fdk2BlfCGro_Fxv4i-32">
           <mxGeometry x="50" y="50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-33" value="数采" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
