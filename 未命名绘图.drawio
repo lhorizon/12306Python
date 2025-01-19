@@ -16,19 +16,21 @@
           <mxGeometry x="640" y="150" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-11" value="MES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-12" value="设备管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sa9fdk2BlfCGro_Fxv4i-13" target="Sa9fdk2BlfCGro_Fxv4i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-19" value="MQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sa9fdk2BlfCGro_Fxv4i-18">
+          <mxGeometry x="0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-13" value="数采系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="460" as="sourcePoint" />
-            <mxPoint x="440" y="410" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
