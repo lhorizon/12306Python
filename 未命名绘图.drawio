@@ -21,7 +21,7 @@
         <mxCell id="Sa9fdk2BlfCGro_Fxv4i-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sa9fdk2BlfCGro_Fxv4i-12" target="Sa9fdk2BlfCGro_Fxv4i-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-21" value="设备配置参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sa9fdk2BlfCGro_Fxv4i-20">
+        <mxCell id="Sa9fdk2BlfCGro_Fxv4i-21" value="读取配置参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sa9fdk2BlfCGro_Fxv4i-20">
           <mxGeometry x="0.2" y="-2" relative="1" as="geometry">
             <mxPoint x="20" y="2" as="offset" />
           </mxGeometry>
